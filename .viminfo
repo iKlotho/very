@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1536063898,,"wq"
 :q!
 |2,0,1535909275,,"q!"
 
@@ -25,14 +27,39 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/notes
-|4,48,1,0,1535909275,"~/notes"
+'0  3  49  ~/call
+|4,48,3,49,1536063898,"~/call"
+'1  1  0  /c/Users/UMUT/call
+|4,49,1,0,1536052538,"/c/Users/UMUT/call"
+'2  1  0  ~/notes
+|4,50,1,0,1535909275,"~/notes"
 
 # Jumplist (newest first):
+-'  3  49  ~/call
+|4,39,3,49,1536063898,"~/call"
+-'  1  0  ~/call
+|4,39,1,0,1536052555,"~/call"
+-'  1  0  /c/Users/UMUT/call
+|4,39,1,0,1536052538,"/c/Users/UMUT/call"
+-'  1  0  /c/Users/UMUT/call
+|4,39,1,0,1536052538,"/c/Users/UMUT/call"
+-'  1  0  ~/notes
+|4,39,1,0,1535909275,"~/notes"
+-'  1  0  ~/notes
+|4,39,1,0,1535909275,"~/notes"
+-'  1  0  ~/notes
+|4,39,1,0,1535909275,"~/notes"
 -'  1  0  ~/notes
 |4,39,1,0,1535909275,"~/notes"
 
 # History of marks within files (newest to oldest):
+
+> ~/call
+	*	1536063897	0
+	"	3	49
+	^	3	50
+	.	3	49
+	+	3	49
 
 > ~/notes
 	*	1535909274	0
@@ -40,3 +67,6 @@
 	^	1	0
 	.	1	0
 	+	1	0
+
+> /c/Users/UMUT/call
+	"	1	0
