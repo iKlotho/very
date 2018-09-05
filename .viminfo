@@ -11,10 +11,16 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1536063898,,"wq"
 :q!
-|2,0,1535909275,,"q!"
+|2,0,1536130567,,"q!"
+:wq
+|2,0,1536130399,,"wq"
+:WQ
+|2,0,1536090221,,"WQ"
+:pu=strftime('%c')
+|2,0,1536090116,,"pu=strftime('%c')"
+:pu=stftime("%c")
+|2,0,1536090034,,"pu=stftime(\"%c\")"
 
 # Search String History (newest to oldest):
 
@@ -27,39 +33,267 @@
 # Registers:
 
 # File marks:
-'0  3  49  ~/call
-|4,48,3,49,1536063898,"~/call"
-'1  1  0  /c/Users/UMUT/call
-|4,49,1,0,1536052538,"/c/Users/UMUT/call"
-'2  1  0  ~/notes
-|4,50,1,0,1535909275,"~/notes"
+'0  4  0  /c/users/umut/Desktop/ACC/asr-acd
+|4,48,4,0,1536130567,"/c/users/umut/Desktop/ACC/asr-acd"
+'1  3  0  /c/users/umut/Desktop/ACC/knowledge
+|4,49,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+'2  1  0  ~/.bashrc
+|4,50,1,0,1536130533,"~/.bashrc"
+'3  1  0  ~/.basrhc
+|4,51,1,0,1536130527,"~/.basrhc"
+'4  3  49  ~/call
+|4,52,3,49,1536130399,"~/call"
+'5  5  33  /c/users/umut/Desktop/nwatch
+|4,53,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+'6  1  0  /c/users/umut/Desktop/4-09-2018
+|4,54,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
+'7  3  49  ~/call
+|4,55,3,49,1536063898,"~/call"
+'8  1  0  /c/Users/UMUT/call
+|4,56,1,0,1536052538,"/c/Users/UMUT/call"
+'9  1  0  ~/notes
+|4,57,1,0,1535909275,"~/notes"
 
 # Jumplist (newest first):
+-'  4  0  /c/users/umut/Desktop/ACC/asr-acd
+|4,39,4,0,1536130567,"/c/users/umut/Desktop/ACC/asr-acd"
+-'  1  0  /c/users/umut/Desktop/ACC/asr-acd
+|4,39,1,0,1536130564,"/c/users/umut/Desktop/ACC/asr-acd"
+-'  3  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+-'  3  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+-'  1  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,1,0,1536130555,"/c/users/umut/Desktop/ACC/knowledge"
+-'  1  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,1,0,1536130555,"/c/users/umut/Desktop/ACC/knowledge"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
 -'  3  49  ~/call
-|4,39,3,49,1536063898,"~/call"
--'  1  0  ~/call
-|4,39,1,0,1536052555,"~/call"
--'  1  0  /c/Users/UMUT/call
-|4,39,1,0,1536052538,"/c/Users/UMUT/call"
--'  1  0  /c/Users/UMUT/call
-|4,39,1,0,1536052538,"/c/Users/UMUT/call"
--'  1  0  ~/notes
-|4,39,1,0,1535909275,"~/notes"
--'  1  0  ~/notes
-|4,39,1,0,1535909275,"~/notes"
--'  1  0  ~/notes
-|4,39,1,0,1535909275,"~/notes"
--'  1  0  ~/notes
-|4,39,1,0,1535909275,"~/notes"
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  5  33  /c/users/umut/Desktop/nwatch
+|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/nwatch
+|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
+-'  1  0  /c/users/umut/Desktop/4-09-2018
+|4,39,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
+-'  1  0  /c/users/umut/Desktop/4-09-2018
+|4,39,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
 
 # History of marks within files (newest to oldest):
 
+> /c/users/umut/Desktop/ACC/asr-acd
+	*	1536130567	0
+	"	4	0
+
+> /c/users/umut/Desktop/ACC/knowledge
+	*	1536130557	0
+	"	3	0
+
+> ~/.bashrc
+	*	1536130532	0
+	"	1	0
+
+> ~/.basrhc
+	*	1536130525	0
+	"	1	0
+
 > ~/call
-	*	1536063897	0
+	*	1536130398	0
 	"	3	49
 	^	3	50
 	.	3	49
 	+	3	49
+
+> /c/users/umut/Desktop/nwatch
+	*	1536090222	0
+	"	5	33
+	^	5	36
+	.	5	35
+	+	1	0
+	+	2	24
+	+	3	99
+	+	5	35
+
+> /c/users/umut/Desktop/4-09-2018
+	*	1536089983	0
+	"	1	0
 
 > ~/notes
 	*	1535909274	0
