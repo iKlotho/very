@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1536130567,,"q!"
+|2,0,1536575629,,"q!"
 :wq
 |2,0,1536130399,,"wq"
 :WQ
@@ -33,36 +33,50 @@
 # Registers:
 
 # File marks:
-'0  4  0  /c/users/umut/Desktop/ACC/asr-acd
-|4,48,4,0,1536130567,"/c/users/umut/Desktop/ACC/asr-acd"
-'1  3  0  /c/users/umut/Desktop/ACC/knowledge
-|4,49,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
-'2  1  0  ~/.bashrc
-|4,50,1,0,1536130533,"~/.bashrc"
-'3  1  0  ~/.basrhc
-|4,51,1,0,1536130527,"~/.basrhc"
-'4  3  49  ~/call
-|4,52,3,49,1536130399,"~/call"
-'5  5  33  /c/users/umut/Desktop/nwatch
-|4,53,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
-'6  1  0  /c/users/umut/Desktop/4-09-2018
-|4,54,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
-'7  3  49  ~/call
-|4,55,3,49,1536063898,"~/call"
-'8  1  0  /c/Users/UMUT/call
-|4,56,1,0,1536052538,"/c/Users/UMUT/call"
-'9  1  0  ~/notes
-|4,57,1,0,1535909275,"~/notes"
+'0  1  0  ~/asd.py
+|4,48,1,0,1536575629,"~/asd.py"
+'1  4  0  /c/users/umut/Desktop/ACC/asr-acd
+|4,49,4,0,1536130567,"/c/users/umut/Desktop/ACC/asr-acd"
+'2  3  0  /c/users/umut/Desktop/ACC/knowledge
+|4,50,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+'3  1  0  ~/.bashrc
+|4,51,1,0,1536130533,"~/.bashrc"
+'4  1  0  ~/.basrhc
+|4,52,1,0,1536130527,"~/.basrhc"
+'5  3  49  ~/call
+|4,53,3,49,1536130399,"~/call"
+'6  5  33  /c/users/umut/Desktop/nwatch
+|4,54,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
+'7  1  0  /c/users/umut/Desktop/4-09-2018
+|4,55,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
+'8  3  49  ~/call
+|4,56,3,49,1536063898,"~/call"
+'9  1  0  /c/Users/UMUT/call
+|4,57,1,0,1536052538,"/c/Users/UMUT/call"
 
 # Jumplist (newest first):
+-'  1  0  ~/asd.py
+|4,39,1,0,1536575629,"~/asd.py"
 -'  4  0  /c/users/umut/Desktop/ACC/asr-acd
 |4,39,4,0,1536130567,"/c/users/umut/Desktop/ACC/asr-acd"
+-'  4  0  /c/users/umut/Desktop/ACC/asr-acd
+|4,39,4,0,1536130567,"/c/users/umut/Desktop/ACC/asr-acd"
+-'  1  0  /c/users/umut/Desktop/ACC/asr-acd
+|4,39,1,0,1536130564,"/c/users/umut/Desktop/ACC/asr-acd"
 -'  1  0  /c/users/umut/Desktop/ACC/asr-acd
 |4,39,1,0,1536130564,"/c/users/umut/Desktop/ACC/asr-acd"
 -'  3  0  /c/users/umut/Desktop/ACC/knowledge
 |4,39,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
 -'  3  0  /c/users/umut/Desktop/ACC/knowledge
 |4,39,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+-'  3  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+-'  3  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,3,0,1536130559,"/c/users/umut/Desktop/ACC/knowledge"
+-'  1  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,1,0,1536130555,"/c/users/umut/Desktop/ACC/knowledge"
+-'  1  0  /c/users/umut/Desktop/ACC/knowledge
+|4,39,1,0,1536130555,"/c/users/umut/Desktop/ACC/knowledge"
 -'  1  0  /c/users/umut/Desktop/ACC/knowledge
 |4,39,1,0,1536130555,"/c/users/umut/Desktop/ACC/knowledge"
 -'  1  0  /c/users/umut/Desktop/ACC/knowledge
@@ -75,6 +89,30 @@
 |4,39,1,0,1536130533,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1536130533,"~/.bashrc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
+-'  1  0  ~/.basrhc
+|4,39,1,0,1536130527,"~/.basrhc"
 -'  1  0  ~/.basrhc
 |4,39,1,0,1536130527,"~/.basrhc"
 -'  1  0  ~/.basrhc
@@ -123,6 +161,38 @@
 |4,39,3,49,1536130399,"~/call"
 -'  3  49  ~/call
 |4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
+-'  3  49  ~/call
+|4,39,3,49,1536130399,"~/call"
 -'  5  33  /c/users/umut/Desktop/nwatch
 |4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
 -'  5  33  /c/users/umut/Desktop/nwatch
@@ -185,78 +255,15 @@
 |4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
 -'  5  33  /c/users/umut/Desktop/nwatch
 |4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
--'  5  33  /c/users/umut/Desktop/nwatch
-|4,39,5,33,1536090223,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/nwatch
-|4,39,1,0,1536089994,"/c/users/umut/Desktop/nwatch"
--'  1  0  /c/users/umut/Desktop/4-09-2018
-|4,39,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
--'  1  0  /c/users/umut/Desktop/4-09-2018
-|4,39,1,0,1536089985,"/c/users/umut/Desktop/4-09-2018"
 
 # History of marks within files (newest to oldest):
+
+> ~/asd.py
+	*	1536575627	0
+	"	1	0
+	^	1	7
+	.	1	6
+	+	1	6
 
 > /c/users/umut/Desktop/ACC/asr-acd
 	*	1536130567	0
